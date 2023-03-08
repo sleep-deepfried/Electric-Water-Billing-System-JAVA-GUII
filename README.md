@@ -1,1 +1,4 @@
-# Electric-Water-Billing-System-JAVA-GUII
+run splashframe.java first
+
+username:admin
+password:admin
